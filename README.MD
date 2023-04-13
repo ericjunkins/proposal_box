@@ -24,6 +24,8 @@ Full schematics, gerber files, and design files can be found in [electrical desi
 
 ## Mechanical Design
 
+The CAD design of the project can be found at: https://cad.onshape.com/documents/44e33e8e96f078937c0840d5/w/a803ee7c0c0ba1d54d61a190/e/53a78a30a7107b3de1d018e0
+
 ### Structure
 
 <p float="left">
