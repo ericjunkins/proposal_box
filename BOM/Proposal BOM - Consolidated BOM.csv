@@ -1,0 +1,98 @@
+Part Type,Vendor,Quantity,Part Number,Manufacturer Part Number,Description,Customer Reference,Unit Price,Extended Price USD,Material,Finish,Color,Link
+PCB,Digikey,10,ZXMN3F30FHCT-ND,ZXMN3F30FHTA,MOSFET N-CH 30V 3.8A SOT23-3,"Q1, Q2, Q3, Q4",$0.47,$4.70,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1516-QBLP679-RGBCWCT-ND,QBLP679-RGBCW,LED RGBW DIFFUSED 8PLCC SMD,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10",$0.49,$4.93,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130138CT-ND,CRGCQ0805J4K7,RES 4.7K OHM 5% 1/8W 0805,"R1, R2, R3, R4",$0.04,$0.38,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130132CT-ND,CRGCQ0805J470R,RES 470 OHM 5% 1/8W 0805,"R5, R6, R7, R8",$0.03,$0.32,N/A,N/A,N/A,N/A
+PCB,Digikey,1,SAM10529-ND,HTST-110-01-L-DV,CONN HEADER SMD 20POS 2.54MM,J1,$4.37,$4.37,N/A,N/A,N/A,N/A
+PCB,Digikey,1,WM20166CT-ND,0436500621,CONN HEADER SMD 6POS 3MM,J5,$3.33,$3.33,N/A,N/A,N/A,N/A
+PCB,Digikey,1,2725-K7805-2000R3-ND,K7805-2000R3,DC DC CONVERTER 5V 10W,U4,$7.11,$7.11,N/A,N/A,N/A,N/A
+PCB,Digikey,1,BA033CC0FP-E2CT-ND,BA033CC0FP-E2,IC REG LINEAR 3.3V 1A TO252-3,U5,$1.41,$1.41,N/A,N/A,N/A,N/A
+PCB,Digikey,6,SSW-108-01-T-S-LL-ND,SSW-108-01-T-S-LL,CONN RCPT 8POS 0.1 TIN PCB,"U1, U2, U3",$1.47,$8.82,N/A,N/A,N/A,N/A
+PCB,Digikey,3,WM1919-ND,0436500415,CONN HEADER VERT 4POS 3MM,"J2, J3, J4",$1.28,$3.84,N/A,N/A,N/A,N/A
+PCB,Digikey,3,WM2648-ND,0430450213,CONN HEADER VERT 2POS,"J6, J7, J8",$1.21,$3.63,N/A,N/A,N/A,N/A
+PCB,Digikey,3,ZXMN3F30FHCT-ND,ZXMN3F30FHTA,MOSFET N-CH 30V 3.8A SOT23-3,"Q1, Q2, Q3",$0.47,$1.41,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130138CT-ND,CRGCQ0805J4K7,RES 4.7K OHM 5% 1/8W 0805,"R1, R3, R5, R7, R8",$0.04,$0.38,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130132CT-ND,CRGCQ0805J470R,RES 470 OHM 5% 1/8W 0805,"R2, R4, R6",$0.03,$0.32,N/A,N/A,N/A,N/A
+PCB,Digikey,10,RMCF0805ZT0R00CT-ND,RMCF0805ZT0R00,RES 0 OHM JUMPER 1/8W 0805,"R9, R10, R11",$0.02,$0.18,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1276-1244-1-ND,CL21A475KAQNNNE,CAP CER 4.7UF 25V X5R 0805,"C1, C2, C3, C5, C7",$0.07,$0.73,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1276-1066-1-ND,CL21B105KAFNNNE,CAP CER 1UF 25V X7R 0805,"C4, C6",$0.07,$0.65,N/A,N/A,N/A,N/A
+PCB,Digikey,10,160-1423-1-ND,LTST-C171GKT,LED GREEN CLEAR CHIP SMD,"D1, D2, D3, D4, D5",$0.14,$1.41,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130135CT-ND,CRGCQ0805J1K5,RES 1.5K OHM 5% 1/8W 0805,"R1, R2, R3, R4, R5",$0.04,$0.38,N/A,N/A,N/A,N/A
+PCB,Digikey,10,13-RC0805FR-13220RLCT-ND,RC0805FR-13220RL,RES 220 OHM 1% 1/8W 0805,"R10, R12, R16, R17, R21",$0.03,$0.25,N/A,N/A,N/A,N/A
+PCB,Digikey,10,A130138CT-ND,CRGCQ0805J4K7,RES 4.7K OHM 5% 1/8W 0805,"R6, R7, R8, R9, R13, R14, R15, R18, R19, R22",$0.04,$0.38,N/A,N/A,N/A,N/A
+PCB,Digikey,10,RMCF0805ZT0R00CT-ND,RMCF0805ZT0R00,RES 0 OHM JUMPER 1/8W 0805,"C5, C6",$0.02,$0.18,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1276-1066-1-ND,CL21B105KAFNNNE,CAP CER 1UF 25V X7R 0805,"C1, C3, C8, C10",$0.07,$0.65,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1276-1244-1-ND,CL21A475KAQNNNE,CAP CER 4.7UF 25V X5R 0805,"C7, C9, C11",$0.07,$0.73,N/A,N/A,N/A,N/A
+PCB,Digikey,10,1276-1096-1-ND,CL21A106KOQNNNE,CAP CER 10UF 16V X5R 0805,"C2, C4",$0.07,$0.74,N/A,N/A,N/A,N/A
+PCB,Digikey,10,160-1423-1-ND,LTST-C171GKT,LED GREEN CLEAR CHIP SMD,"D1, D2, D3, D4",$0.14,$1.41,N/A,N/A,N/A,N/A
+PCB,Digikey,1,1738-1041-ND,DFR0299,DFPLAYER - A MINI MP3 PLAYER,U1,$5.90,$5.90,N/A,N/A,N/A,N/A
+PCB,Digikey,1,PAM8406DRDICT-ND,PAM8406DR,IC AMP D/AB STEREO 5W 16SOP,U2,$0.85,$0.85,N/A,N/A,N/A,N/A
+PCB,Digikey,1,WM1793-ND,0430451012,CONN HEADER VERT 10POS 3MM,J13,$2.60,$2.60,N/A,N/A,N/A,N/A
+PCB,Digikey,1,2725-K7805-2000R3-ND,K7805-2000R3,DC DC CONVERTER 5V 10W,U3,$7.11,$7.11,N/A,N/A,N/A,N/A
+PCB,Digikey,1,BA033CC0FP-E2CT-ND,BA033CC0FP-E2,IC REG LINEAR 3.3V 1A TO252-3,U4,$1.41,$1.41,N/A,N/A,N/A,N/A
+PCB,Digikey,1,2057-PH1-12-UA-ND,PH1-12-UA,CONN HEADER VERT 12POS 2.54MM,J12,$0.20,$0.20,N/A,N/A,N/A,N/A
+PCB,Digikey,2,SAM8996-ND,TSW-104-07-F-D,CONN HEADER VERT 8POS 2.54MM,"J5, J7",$0.97,$1.94,N/A,N/A,N/A,N/A
+PCB,Digikey,3,732-5315-ND,61300211121,CONN HEADER VERT 2POS 2.54MM,"J1, J2, J9",$0.13,$0.39,N/A,N/A,N/A,N/A
+PCB,Digikey,1,SAM10529-ND,HTST-110-01-L-DV,CONN HEADER SMD 20POS 2.54MM,J6,$4.37,$4.37,N/A,N/A,N/A,N/A
+PCB,Digikey,2,1034-ZXMN3F31DN8CT-ND,ZXMN3F31DN8TA,MOSFET 2N-CH 30V 5.7A 8SOIC,"Q1, Q2",$0.87,$1.74,N/A,N/A,N/A,N/A
+PCB,Digikey,1,1050-1018-ND,A000067,ARDUINO MEGA2560 ATMEGA2560,A1,$48.40,$48.40,N/A,N/A,N/A,N/A
+PCB,Digikey,1,2553-2044-2X18G00SA-ND,2044-2X18G00SA,"PCB SOCKET, DOUBLE ROW, 36 PIN,",A1,$1.00,$1.00,N/A,N/A,N/A,N/A
+PCB,Digikey,10,SSW-108-01-T-S-LL-ND,SSW-108-01-T-S-LL,CONN RCPT 8POS 0.1 TIN PCB,"A1, U2",$1.28,$12.82,N/A,N/A,N/A,N/A
+PCB,Digikey,1,CT-9EW103-ND,CT-9EW103,TRIMMER 10K OHM 0.5W PC PIN TOP,R20,$2.07,$2.07,N/A,N/A,N/A,N/A
+Machine Part,Alibaba,5,N/A,N/A,Iris_leaf,N/A,$14.00,$70.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Iris_base,N/A,$36.50,$36.50,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Spur_gear,N/A,$46.50,$46.50,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Lock_cover,N/A,$21.50,$21.50,Aluminum 6061,Type 2 Annodize,Red,N/A
+Machine Part,Alibaba,1,N/A,N/A,Lock_cover,N/A,$21.50,$21.50,Aluminum 6061,Type 2 Annodize,Blue,N/A
+Machine Part,Alibaba,1,N/A,N/A,Lock_cover,N/A,$21.50,$21.50,Aluminum 6061,Type 2 Annodize,Green,N/A
+Machine Part,Alibaba,1,N/A,N/A,Lock_cover,N/A,$21.50,$21.50,Aluminum 6061,Type 2 Annodize,Yellow,N/A
+Machine Part,Alibaba,1,N/A,N/A,Back_plate,N/A,$24.00,$24.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Bottom_plate,N/A,$23.00,$23.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Front_plate,N/A,$33.00,$33.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,1,N/A,N/A,Lid_plate,N/A,$100.00,$100.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+Machine Part,Alibaba,2,N/A,N/A,Side_plate,N/A,$25.00,$50.00,Aluminum 6061,Type 2 Annodize,Black,N/A
+3D Printed,JLCPCB,6,N/A,N/A,Lock Housing - Bar,N/A,$1.00,$6.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,2,N/A,N/A,Key 1 Static,N/A,$1.00,$2.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,2,N/A,N/A,Key 2 Static,N/A,$1.00,$2.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,2,N/A,N/A,Key 3 Static,N/A,$1.00,$2.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,2,N/A,N/A,Key 4 Static,N/A,$1.00,$2.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,5,N/A,N/A,Lock Housing - Tumbler 0,N/A,$1.00,$5.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,6,N/A,N/A,Lock Housing,N/A,$6.21,$37.27,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Ring Coupler,N/A,$1.64,$1.64,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Iris Stepper Block,N/A,$3.94,$3.94,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Center Block,N/A,$17.05,$17.05,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Ring Mount,N/A,$2.95,$2.95,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,3,N/A,N/A,Bearing Clamp,N/A,$1.90,$5.71,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,2,N/A,N/A,Upper Z Lim Bracket,N/A,$1.00,$2.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,7,N/A,N/A,Iris Linkage,N/A,$1.00,$7.00,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Battery Cover,N/A,$2.01,$2.01,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Z Shaft Bottom Bracket,N/A,$1.35,$1.35,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Lower Z Lim Bracket,N/A,$2.25,$2.25,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Z Stepper Block,N/A,$5.71,$5.71,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Shaft Mounting Block,N/A,$5.08,$5.08,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Z Carriage,N/A,$10.76,$10.76,Black Resin,Sanding,Matte Black,N/A
+3D Printed,JLCPCB,1,N/A,N/A,Diffuser Mount,N/A,$1.00,$1.00,Black Resin,Sanding,Matte Black,N/A
+Laser Cut,SendcutSend,1,N/A,N/A,Lid_Upper_Plate,N/A,$52.48,$52.48,"5052 Aluminum (0.125"")",Black,Annodize Type 2,N/A
+Laser Cut,SendcutSend,1,N/A,N/A,Diffuser,N/A,$3.20,$3.20,"Acrylic-White (0.118"")",Clear,None,N/A
+Laser Cut,SendcutSend,1,N/A,N/A,Upper Cosmetic Ring,N/A,$7.02,$7.02,"5052 Aluminum (0.125"")",White,Gloss White Powder Coat,N/A
+Misc,Amazon,1,N/A,N/A,Black Velvet Felt,N/A,$12.99,$12.99,N/A,N/A,N/A,https://www.amazon.com/dp/B08TMTM1ZT?psc=1&ref=ppx_yo2ov_dt_b_product_details
+PCB,Amazon,1,N/A,N/A,TMC2209 Stepper Driver 5PCS,N/A,$29.99,$29.99,N/A,N/A,N/A,https://www.amazon.com/dp/B07ZQ3C1XW?psc=1&ref=ppx_yo2ov_dt_b_product_details
+Electronics,Amazon,1,N/A,N/A,JJHXSM Magnetic Loudspeaker 4PCS,N/A,$8.99,$8.99,N/A,N/A,N/A,https://www.amazon.com/dp/B09HGTKXC4?psc=1&ref=ppx_yo2ov_dt_b_product_details
+Misc,Amazon,5,N/A,N/A,WEICHUAN Metal Antique Bronze Keychain,N/A,$5.99,$29.95,N/A,N/A,N/A,https://www.amazon.com/gp/product/B01N3VRYV7/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+Electronics,Amazon,1,N/A,N/A,STEPPERONLINE Short Body Nema 17 Bipolar Stepper Motor 1A 22.6oz.in/16Ncm DIY CNC Extruder,N/A,$11.99,$11.99,N/A,N/A,N/A,https://www.amazon.com/gp/product/B00PNEQ79Q/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+Electronics,Amazon,1,N/A,N/A,"[3pcs of Pack] Nema17 Stepper Motor, 2Phase 4 Lead 42-34 Stepping Motor with 1m Cable 42BYGH 34MM 1.5A (17HS4401S) for CR-10, Ender 3, Anet A8, Anycubic Mega Series 3D Printers and CNC Extruder",N/A,$29.99,$29.99,N/A,N/A,N/A,https://www.amazon.com/gp/product/B09JFGSS8H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+Misc,Amazon,1,N/A,N/A,"ZIRO Silk PLA Filament 1.75mm,3D Printer Filament PLA Silky Series 1.75mm 1KG(2.2lbs),Bronze",N/A,$21.99,$21.99,N/A,N/A,N/A,https://www.amazon.com/dp/B08BG4VHF4?ref=ppx_yo2ov_dt_b_product_details&th=1
+Structure,McMaster Carr,1,N/A,N/A,Unthreaded Bumper 10PCS,N/A,$7.42,$7.42,N/A,N/A,N/A,https://www.mcmaster.com/catalog/9540K913
+Structure,McMaster Carr,2,N/A,N/A,Metal Gear - 20 Degree Pressure Angle,N/A,$15.52,$31.04,N/A,N/A,N/A,https://www.mcmaster.com/2664N353/
+Structure,McMaster Carr,1,N/A,N/A,"18-8 Stainless Steel Flanged Button Head Screw M3 x 0.5 mm Thread Size, 6 mm Long",N/A,$5.04,$5.04,N/A,N/A,N/A,https://www.mcmaster.com/97654A674/
+Electronics,Digikey,1,N/A,N/A,AC/DC WALL MOUNT ADAPTER 9V 18W,N/A,$13.66,$13.66,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/xp-power/VEL18US090-US-JA/5864666
+Electronics,Digikey,1,N/A,N/A,CONN JACK PNL MNT 5.5X2.1MM ISO,N/A,$4.92,$4.92,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987
+Electronics,Digikey,4,N/A,N/A,PNL MNT W/ WIRE 568NM 25MCD GRN,N/A,$3.03,$12.12,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/bivar-inc/MPR5GD/3488863
+Electronics,Digikey,1,N/A,N/A,SWITCH PUSHBUTTON SPST-NO 2A 48V,N/A,$6.37,$6.37,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/e-switch/PV2F240NN/4028687?s=N4IgTCBcDaIKIHECsBOAzEgtAOQCIgF0BfIA
+Electronics,Digikey,2,N/A,N/A,SWITCH ROCKER SPDT ON-ON W/PRINT,N/A,$2.12,$4.24,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/switch-components/RF1-1D-DC-2-B-4/11492757
+Electronics,Digikey,1,N/A,N/A,IDC CABLE - MKC20A/MC20G/MKC20A,N/A,$5.19,$5.19,N/A,N/A,N/A,https://www.digikey.com/en/products/detail/3m/M3CCA-2006J/230139
+Structure,Gobilda,20,N/A,N/A,"2101 Series Stainless Steel D-Shaft (6mm Diameter, 80mm Length)",N/A,$2.29,$45.80,N/A,N/A,N/A,https://www.gobilda.com/2101-series-stainless-steel-d-shaft-6mm-diameter-80mm-length/
+Electronics,Amazon,1,N/A,N/A,"LP 9V Rechargeable Battery Charger Pack, 4 Pack 600mah 9 Volt Batteries",N/A,$27.98,$27.98,N/A,N/A,N/A,https://www.amazon.com/gp/product/B07RT332DY/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1
+Structure,Amazon,1,N/A,N/A,RuiLing 4pcs 9V Battery Holder Box with 2X Lead Wire Spring Clip DIY Plastic Cell Batteries Container,N/A,$8.99,$8.99,N/A,N/A,N/A,https://www.amazon.com/gp/product/B07Q1N2MHT/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+Electronics,Amazon,1,N/A,N/A,BUYGOO 6Pcs V-156-1C25 Micro Limit Switch with Hinge Roller Momentary SPDT Snap Action for Arduino CYT1046,N/A,$7.79,$7.79,N/A,N/A,N/A,https://www.amazon.com/gp/product/B07D9C2B6J/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+Electronics,Amazon,1,N/A,N/A,JANDECCN 20Pcs Limit Switch AC 5A 125 250V SPDT 1NO 1NC Short Straight Hinge Lever Arm Micro Switch KW12 (Type B),N/A,$9.99,$9.99,N/A,N/A,N/A,https://www.amazon.com/gp/product/B07X142VGC/ref=ppx_yo_dt_b_asin_image_o09_s00?ie=UTF8&psc=1
